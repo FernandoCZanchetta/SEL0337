@@ -110,3 +110,7 @@ Para demonstrar o funcionamento deste código, seguem algumas imagens exibindo a
 <!--- INSERIR FOTO DE UM EMAIL ENVIADO AQUI PARA MOSTRAR QUE FUNCIONA --->
 
 ![EMAIL](https://github.com/FernandoCZanchetta/SEL0337/blob/main/Pr%C3%A1tica%20VI/Images/EMAIL.png?raw=true)
+
+## Git e GitHub
+
+Os códigos desenvolvidos nesta prática e nas práticas anteriores estão sendo versionados por meio do Git e estão também disponíveis no GitHub, como esta prática também tem enfoque no uso destas ferramentas, um arquivo .txt está presente junto aos arquivos desta prática, onde consta o resultado do comando ```git log``` após serem realizados todos os outros comandos necessários para versionar o código e subi-lo para o GitHub, como, por exemplo, ```git add```, ```git commit -m```, ```git push```, ```git status```, entre outros. O arquvio pode ser visto em [```Git.txt```](https://github.com/FernandoCZanchetta/SEL0337/blob/main/Pr%C3%A1tica%20VI/Git.txt).
