@@ -31,7 +31,7 @@ Se for necessário corrigir algum erro, pode-se utillizar o ```systemctl status 
 
 Como resultado de todo este procedimento citado, tem-se o GIF abaixo, que demonstra o funcionamento do serviço construído acima.
 
-![LEDBLINK](https://github.com/FernandoCZanchetta/SEL0337/blob/main/Pr%C3%A1tica%20VI/Images/BLINK.gif?raw=true)
+![LEDBLINK](https://github.com/FernandoCZanchetta/SEL0337/blob/main/Pr%C3%A1tica%20VII/Images/BLINK.gif?raw=true)
 
 De forma análoga ao procedimento realizado acima, é possível criar um serviço que execute um programa em Python, portanto escolheu-se o programa [```pwm_led.py```](https://github.com/FernandoCZanchetta/SEL0337/blob/main/Pr%C3%A1tica%20VII/pwm_led.py), já desenvolvido em práticas anteriores. O unit file para este caso deve também incluir ```/usr/bin/python3``` em ```ExecStart```, já que o python também deve ser inciado para que o arquivo ```.py``` possa rodar. Sendo assim, criou-se o arquivo [```pythoncode.service```](https://github.com/FernandoCZanchetta/SEL0337/blob/main/Pr%C3%A1tica%20VII/pythoncode.service). Realizando novamente os procedimentos citados acima para inclusão do serviço na sequencia de Boot, foi possível adquirir exito na prática.
 
