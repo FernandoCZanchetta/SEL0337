@@ -3,7 +3,7 @@ Description=FadeLED
 After=multi-user.target
 
 [Service]
-ExecStart=/usr/bin/python3 /home/sel/6219/"Prática IV"/pwm_led.py
+ExecStart=/usr/bin/python3 /home/sel/6219/"Prática VII"/pwm_led.py
 #ExecStop=
 user=SEL
 
