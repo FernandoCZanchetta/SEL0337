@@ -1,0 +1,23 @@
+commit aaf1079cbc09dc52a8c3b2ed62987e2eeaad180c
+Author: Fernando Cirilo Zanchetta <fe.cz@usp.br>
+Date:   Mon Dec 18 10:49:12 2023 -0300
+
+    Add Sent Email image
+
+commit f24d11ebdc30d9b4144bab37190f118e3ad1a2ae
+Author: Fernando Cirilo Zanchetta <fe.cz@usp.br>
+Date:   Mon Dec 18 01:10:24 2023 -0300
+
+    Add Git/Github README section
+
+commit 22ed2f684cf80c746d10cf405efed1b95993c5ab
+Author: Fernando Cirilo Zanchetta <fe.cz@usp.br>
+Date:   Mon Dec 18 00:58:38 2023 -0300
+
+    Add Camera files, images, README section e .gitignore
+
+commit 3634518490f587ef27d6ffb0290a58b4735a680a
+Author: Fernando Cirilo Zanchetta <fe.cz@usp.br>
+Date:   Sun Dec 17 21:40:39 2023 -0300
+
+    Create Prática VI folder and add RFID files, images and README section
