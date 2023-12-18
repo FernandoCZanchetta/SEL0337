@@ -1,0 +1,21 @@
+ 1  touch LEDblink.sh
+ 2  nano LEDblink.sh
+ 3  chmod +x ./LEDblink.sh
+ 4  ./LEDblink.sh
+ 5  touch LEDblink.service
+ 6  nano LEDblink.service
+ 7  sudo cp LEDblink.service /lib/systemd/system/
+ 8  sudo systemctl start LEDblink
+ 9  sudo systemctl stop LEDblink
+10  sudo systemctl enable LEDblink
+11  sudo raspi-config
+12  sudo systemctl disable LEDblink
+13  chmod +x ./pwm_led.py
+14  touch pythoncode.service
+15  nano pythoncode.service
+16  sudo cp pythoncode.service /lib/systemd/system/
+17  sudo systemctl start pythoncode
+18  sudo systemctl stop pythoncode
+19  sudo systemctl enable pythoncode
+20  sudo systemctl disable pythoncode
+21  history > history.txt
