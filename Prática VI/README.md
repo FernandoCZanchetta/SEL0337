@@ -103,9 +103,9 @@ Para garantir que o arquivo ```.env``` não seja rastreado pelo Git, é necessá
 
 Para demonstrar o funcionamento deste código, seguem algumas imagens exibindo alguns rostos detectados pelo mesmo e também um print de um dos e-mails enviado.
 
-![ROSTO1](https://github.com/FernandoCZanchetta/SEL0337/blob/main/Pr%C3%A1tica%20VI/Images/face_1701699000.png?raw=true)
+![ROSTO1](https://github.com/FernandoCZanchetta/SEL0337/blob/main/Pr%C3%A1tica%20VI/Images/face_1701699000.jpg?raw=true)
 
-![ROSTO2](https://github.com/FernandoCZanchetta/SEL0337/blob/main/Pr%C3%A1tica%20VI/Images/face_1701699001.png?raw=true)
+![ROSTO2](https://github.com/FernandoCZanchetta/SEL0337/blob/main/Pr%C3%A1tica%20VI/Images/face_1701699001.jpg?raw=true)
 
 <!--- INSERIR FOTO DE UM EMAIL ENVIADO AQUI PARA MOSTRAR QUE FUNCIONA --->
 
