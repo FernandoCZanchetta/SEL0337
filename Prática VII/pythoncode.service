@@ -1,0 +1,11 @@
+[Unit]
+Description=BlinkLED
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/sel/6219/"Prática IV"/pwm_led.py
+#ExecStop=
+user=SEL
+
+[Install]
+WantedBy=multi-user.target

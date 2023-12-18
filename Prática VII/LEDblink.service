@@ -1,0 +1,11 @@
+[Unit]
+Description=BlinkLED
+After=multi-user.target
+
+[Service]
+ExecStart=/home/sel/6219/"Prática VII"/LEDblink.sh
+#ExecStop=
+user=SEL
+
+[Install]
+WantedBy=multi-user.target
