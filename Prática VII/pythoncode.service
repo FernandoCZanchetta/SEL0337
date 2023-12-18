@@ -1,5 +1,5 @@
 [Unit]
-Description=BlinkLED
+Description=FadeLED
 After=multi-user.target
 
 [Service]
